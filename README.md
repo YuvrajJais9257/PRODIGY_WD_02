@@ -6,7 +6,6 @@ A simple stopwatch app built using React.js.
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
